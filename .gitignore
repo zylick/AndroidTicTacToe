@@ -18,3 +18,19 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+# Android Files
+android.keystore
+local.properties
+bin/
+gen/
+libs/
+obj/
+
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+.settings/org.eclipse.jdt.core.prefs
+project.properties
